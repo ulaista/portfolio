@@ -1,0 +1,12 @@
+{
+    "name": "my-portfolio",
+    "version": "1.0.0",
+    "description": "Frontend for my portfolio project",
+    "dependencies": {
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build"
+    }
+  }
+  
